@@ -1,0 +1,5 @@
+{
+  "name": "Exasol Docker DB",
+  "description": "Exasol Docker DB.",
+  "stack": "container"
+}
